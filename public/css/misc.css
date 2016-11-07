@@ -1,0 +1,19 @@
+.background-color {
+  background-color: #448994;
+  background-size: 100%;
+}
+
+.center-left {
+  position: relative;
+  bottom: -200px;
+  right: -50px;
+}
+
+.no-vertical-margins {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+tr {
+  background: white;
+}
